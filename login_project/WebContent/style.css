@@ -1,0 +1,166 @@
+/* *{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   background: #0579e6;
+} */
+
+#bd{
+   background-color: #f8f8f8;
+}
+
+.signup-image-link{
+   margin-left: 86px;
+}
+
+.remember-me{
+   margin-top: 22px;
+   text-align: center;
+}
+.form-group{
+   
+    background-color:#ffffff;
+    padding: 34px 32px;
+    border-radius: 10px;
+    margin-top: 50px;
+    color: black;
+    box-shadow: 0 0 10px  #f3f3f3;
+    
+}
+.form-group h1{
+   font-weight: bold;
+   text-align: center;
+   color: #222;
+   font-size: 36px;
+}
+
+#button{
+   color: white;
+   border: none;
+   margin: 20px;
+   background:  #95b9db;
+   cursor: pointer;
+}
+
+#button:hover{
+   background: #0579e6;
+}
+
+
+.container{
+   background-color: blue;
+}
+
+.social-login social 
+     {
+    display: inline-flex;
+     }
+
+.social{
+    display: inline-flex;
+    list-style-type: none;
+    margin-top: 20px;
+    margin-left: -21px;
+ }
+
+ 
+
+ .content{
+   
+   position: relative;
+ }
+
+ .det{
+   display: flex;
+   margin-top: 19px;
+ }
+
+
+
+ .det i{
+   padding: 18px 0px 0px 0px;
+ }
+
+ #input{
+   width: 100%;
+   border: hidden;
+   border-bottom:2px solid #999;
+   border-radius:0%;
+   box-shadow: none;
+   
+ }
+
+ .social-login{
+   text-align: center;
+ }
+
+ 
+/* signup */
+
+#signup-button{
+   color: white;
+   border: none;
+   margin: 20px;
+   background:  #95b9db;
+   cursor: pointer;
+   margin-left: 20px;
+
+}
+
+#signup-button:hover{
+   background: #0579e6;
+}
+
+ /* social media */
+
+#fb{
+    padding: 9px 12px;
+    color: white;
+    background-color: #3b5998;
+    margin-left: 0px;
+    border-radius: 5px;
+   transition: transform 0.2s;
+
+ }
+
+ #tw{
+   padding: 9px ;
+   color: white;
+   background-color: #1da0f2;
+   margin-left: 10px;
+   border-radius: 5px;
+   transition: transform 0.2s;
+
+
+}
+
+#gg{
+   padding: 9px;
+   color: white;
+   background-color: #e72734;
+   margin-left: 10px;
+   border-radius: 5px;
+   transition: transform 0.2s;
+}
+
+#gg:hover{
+   transform: scale(1.1); 
+}
+
+#tw:hover{
+   transform: scale(1.1); 
+}
+
+#fb:hover{
+   transform: scale(1.1); 
+}
+
+
+ #demo{
+     background-color:#ffffff;
+   border-radius: 5px;
+    color: black;
+    box-shadow: 0 0 86px  #c0c0c0;
+}  
+            
+         
